@@ -24,7 +24,7 @@ _by Sebastian Andrade_
 ## Initial Setup
 
 **How do we make a GitHub account?**
-* Go to **[Github](Github.com)**
+* Go to **[Github](https://Github.com)**
 * Create a username and add your email or make an [email](https://accounts.google.com/SignUp?hl=en) then comeback.
 * Make a secure password for your GitHub account.
 * click "Sign up for Github"
@@ -33,7 +33,7 @@ _by Sebastian Andrade_
 
 **How do we make a C9.io account?**
 
-* Go to **[c9.io](c9.io)**
+* Go to **[c9.io](https://c9.io)**
 * Easily sign up for c9.io using your Github account.
 
  _Congrats! You now have a c9.io account where you can store your created projects._
@@ -43,10 +43,10 @@ _by Sebastian Andrade_
 **How do we add an SSH key to our Github account?**
 
 You're probably wondering what an SSH key is. An SSH key allows us users to push our projects
-safetly to Github. Since we're mostly working with **_C9.io_** we will be using an SSH key from **_c9.io_** to put in our Github account. **Make sure not to share your SSH key with anyone! Keep it private!**
+safe to Github. Since we're mostly working with **_C9.io_** we will be using an SSH key from **_c9.io_** to put in our Github account. **Make sure not to share your SSH key with anyone! Keep it private!**
 
 To get the **SSH** key from your C9.io account:
-* Go to [c9.io](c9.io)
+* Go to [c9.io](https://c9.io)
 * Sign in
 * Click on **Dashboard**
 * Click on the gear icon (settings) on the top right of the screen.
